@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>206.jpg</filename>
+	<path>C:\Users\rishi\virtual env test\pothole\models\research\object_detection\images\train\206.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>625</width>
+		<height>352</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>160</ymin>
+			<xmax>547</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>
