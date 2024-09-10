@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>31.jpg</filename>
+	<path>C:\Users\rishi\virtual env test\pothole\models\research\object_detection\images\test\31.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>991</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>186</ymin>
+			<xmax>984</xmax>
+			<ymax>1057</ymax>
+		</bndbox>
+	</object>
+</annotation>
